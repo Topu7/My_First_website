@@ -1,0 +1,17 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size : 50px;
+    font-weight : 500px;
+}
+.port{
+    color : rgba(240, 218, 18, 0.932);
+}
+.hw{
+    width : 50%;
+    float: left;
+}
+.hw img{
+    width : 100% , important;
+}
